@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024449224072",
+    "project_id": "orderingsystem-27c09",
+    "storage_bucket": "orderingsystem-27c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024449224072:android:dbefe56e61497d8ef1ae3d",
+        "android_client_info": {
+          "package_name": "com.example.ordering_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClkFxS5D4xdhiAnubcsORJB_TEwKEcj-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
